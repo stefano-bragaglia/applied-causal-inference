@@ -9,3 +9,5 @@ This repository contains the code for the book "Applied Causal Inference" availa
 PART 1
 
 * [1. Introduction to Causality](src/notebooks/01_intro_to_causality.ipynb)
+
+* [2. Causal Inference: Theory and Basic Concepts](src/notebooks/02_theory_and_basic_concepts.ipynb)
