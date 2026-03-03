@@ -6,7 +6,12 @@ build-backend = "hatchling.build"
 name = "aci"
 version = "0.0.1"
 description = ""
-dependencies = []
+dependencies = [
+    "pandas ==3.0.1",
+    "matplotlib ==3.10.8",
+    "scikit-learn ==1.8.0",
+    "numpy ==2.4.2",
+]
 
 [project.optional-dependencies]
 dev = [
