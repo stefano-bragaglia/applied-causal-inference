@@ -1,3 +1,4 @@
+/src/aci/code/*
 
 __pycache__/
 *.py[cod]
@@ -74,3 +75,4 @@ dmypy.json
 .pyre/
 .pytype/
 cython_debug/
+
