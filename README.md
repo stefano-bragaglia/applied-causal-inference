@@ -13,3 +13,5 @@ PART 1
 * [2. Causal Inference: Theory and Basic Concepts](src/notebooks/02_theory_and_basic_concepts.ipynb)
 
 * [3. Causal Inference: A Practical Approach](src/notebooks/03_a_practical_approach.ipynb)
+
+* [4. Causal Discovery](src/notebooks/04_causal_discovery.ipynb)
