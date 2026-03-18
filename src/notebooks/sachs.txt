@@ -1,0 +1,21 @@
+Graph Nodes:
+ praf;pmek;plcg;PIP2;PIP3;p44/42;pakts473;PKA;PKC;P38;pjnk 
+ Graph Edges: 
+1. PIP2 --> PKC
+2. plcg --> PIP2
+3. PIP3 --> plcg
+4. PIP2 --> PIP3
+5. plcg --> PKC
+6. PKC --> pjnk
+7. PKC --> P38
+8. PKA --> P38
+9. PKC --> praf
+10. PKA --> praf
+11. praf --> pmek
+12. pmek --> p44/42
+13. PKC --> pmek
+14. PKA --> pakts473
+15. PIP3 --> pakts473
+16. PKA --> pmek
+17. PKA --> p44/42
+18. PKA --> pjnk
