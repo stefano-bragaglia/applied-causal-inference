@@ -6,7 +6,7 @@ This repository contains the code for the book "Applied Causal Inference" availa
 
 * [Prerequisites and Key Concepts from the Preface](src/notebooks/00_preface.ipynb)
 
-PART 1
+###### PART 1
 
 * [1. Introduction to Causality](src/notebooks/01_intro_to_causality.ipynb)
 
@@ -15,3 +15,8 @@ PART 1
 * [3. Causal Inference: A Practical Approach](src/notebooks/03_a_practical_approach.ipynb)
 
 * [4. Causal Discovery](src/notebooks/04_causal_discovery.ipynb)
+
+###### PART 2
+
+* [5. NLP](src/notebooks/05_nlp.ipynb)
+
