@@ -19,5 +19,5 @@ This repository contains the code for the book "Applied Causal Inference" availa
 ###### PART 2
 
 * [5. NLP](src/notebooks/05_nlp.ipynb)
-* [6. Computer Vision](src/notebooks/05_computer_vision.ipynb)
-
+* [6. Computer Vision](src/notebooks/06_computer_vision.ipynb)
+* [7. Time-dependent Causal Inference](src/notebooks/07_time_dependent_causal_inference.ipynb)
