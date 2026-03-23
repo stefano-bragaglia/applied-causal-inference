@@ -6,7 +6,7 @@ This repository contains the code for the book "Applied Causal Inference" availa
 
 * [Prerequisites and Key Concepts from the Preface](src/notebooks/00_preface.ipynb)
 
-###### PART 1
+###### PART 1: Definitions
 
 * [1. Introduction to Causality](src/notebooks/01_intro_to_causality.ipynb)
 
@@ -16,8 +16,12 @@ This repository contains the code for the book "Applied Causal Inference" availa
 
 * [4. Causal Discovery](src/notebooks/04_causal_discovery.ipynb)
 
-###### PART 2
+###### PART 2: Causality in ML Domains
 
 * [5. NLP](src/notebooks/05_nlp.ipynb)
 * [6. Computer Vision](src/notebooks/06_computer_vision.ipynb)
 * [7. Time-dependent Causal Inference](src/notebooks/07_time_dependent_causal_inference.ipynb)
+
+###### PART 3: Advanced Topics in Causality
+
+* [8. Model Fairness](src/notebooks/08_model_fairness.ipynb)
