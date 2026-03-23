@@ -19,4 +19,5 @@ This repository contains the code for the book "Applied Causal Inference" availa
 ###### PART 2
 
 * [5. NLP](src/notebooks/05_nlp.ipynb)
+* [6. Computer Vision](src/notebooks/05_computer_vision.ipynb)
 
