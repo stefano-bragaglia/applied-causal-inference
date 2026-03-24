@@ -25,3 +25,4 @@ This repository contains the code for the book "Applied Causal Inference" availa
 ###### PART 3: Advanced Topics in Causality
 
 * [8. Model Fairness](src/notebooks/08_model_fairness.ipynb)
+* [9. Reinforcement Learning](src/notebooks/09_reinforcement_learning.ipynb)
